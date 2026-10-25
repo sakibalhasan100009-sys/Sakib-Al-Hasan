@@ -1,0 +1,8 @@
+{
+  "name": "SN AI Assistant",
+  "description": "A sassy, real-time voice-to-voice AI companion that handles natural conversations and executes seamless device actions on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
